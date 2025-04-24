@@ -72,7 +72,6 @@ def load_from_file(filename):
     return items
 
 if _name_ == "_main_":
-    # 6 Archive Items
     items = [
         Book("B001", "Deep Learning", 2018, "Ian Goodfellow", 775),
         Book("B002", "Clean Code", 2020, "Robert C. Martin", 464),
